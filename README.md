@@ -9,3 +9,11 @@ Since shaders on Shadertoy have several code sections, they have been merged int
 * `Semiconductor.glsl` - a test of various SDF raymarching techniques in 3D. Includes lighting, shape booleans, latticed objects, fog. Some stuff (more complex shapes, reflections) had to be scrapped due to performance concerns. [Link to Shadertoy](https://www.shadertoy.com/view/lcj3z3).
 
 ![Animated example for Semiconductor.glsl](/imgs/Semiconductor.gif)
+
+* `CelestialClock.glsl` - animated raymarched fractal-like structure with multiple lights. [Link to Shadertoy](https://www.shadertoy.com/view/43BGRm).
+
+![Animated example for Fingerprints.glsl](/imgs/CelestialClock.gif)
+
+* `DreamField.glsl` - animated colorful 2D texture with dithering. [Link to Shadertoy](https://www.shadertoy.com/view/Mf3GRB).
+
+![Animated example for Fingerprints.glsl](/imgs/DreamField.gif)
