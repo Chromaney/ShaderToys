@@ -4,16 +4,30 @@ Since shaders on Shadertoy have several code sections, they have been merged int
 
 * `Fingerprints.glsl` - an effect of fingerprints on the back side of "glass". [Link to Shadertoy](https://www.shadertoy.com/view/mlKcWD).
 
-![Animated example for Fingerprints.glsl](/imgs/Fingerprints.gif)
+![Image for Fingerprints.glsl](/imgs/Fingerprints.png)
+
+[Animation for Fingerprints.glsl](/imgs/Fingerprints.gif)
 
 * `Semiconductor.glsl` - a test of various SDF raymarching techniques in 3D. Includes lighting, shape booleans, latticed objects, fog. Some stuff (more complex shapes, reflections) had to be scrapped due to performance concerns. [Link to Shadertoy](https://www.shadertoy.com/view/lcj3z3).
 
-![Animated example for Semiconductor.glsl](/imgs/Semiconductor.gif)
+![Image for Semiconductor.glsl](/imgs/Semiconductor.png)
+
+[Animation for Semiconductor.glsl](/imgs/Semiconductor.gif)
 
 * `CelestialClock.glsl` - animated raymarched fractal-like structure with multiple lights. [Link to Shadertoy](https://www.shadertoy.com/view/43BGRm).
 
-![Animated example for Fingerprints.glsl](/imgs/CelestialClock.gif)
+![Image for Fingerprints.glsl](/imgs/CelestialClock.png)
+
+[Animation for Fingerprints.glsl](/imgs/CelestialClock.gif)
 
 * `DreamField.glsl` - animated colorful 2D texture with dithering. [Link to Shadertoy](https://www.shadertoy.com/view/Mf3GRB).
 
-![Animated example for Fingerprints.glsl](/imgs/DreamField.gif)
+![Image for Fingerprints.glsl](/imgs/DreamField.png)
+
+[Animation for Fingerprints.glsl](/imgs/DreamField.gif)
+
+* `Aurora.glsl` - a simple-ish 2D aurora effect. [Link to Shadertoy](https://www.shadertoy.com/view/Mfy3Dz).
+
+![Image for Aurora.glsl](/imgs/Aurora.png)
+
+[Animation for Aurora.glsl](/imgs/Aurora.gif)
