@@ -31,3 +31,9 @@ Since shaders on Shadertoy have several code sections, they have been merged int
 ![Image for Aurora.glsl](/imgs/Aurora.png)
 
 [Animation for Aurora.glsl](/imgs/Aurora.gif)
+
+* `BetweenOrderAndChaos.glsl` - A shader born out of desire to try something CA/WFC-inspired. Creates a picture with moving parts of chaotic colors and orderly gradients. [Link to Shadertoy](https://www.shadertoy.com/view/4cSBz1).
+
+![Image for BetweenOrderAndChaos.glsl](/imgs/BetweenOrderAndChaos.png)
+
+[Animation for BetweenOrderAndChaos.glsl](/imgs/BetweenOrderAndChaos.gif)
