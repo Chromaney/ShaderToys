@@ -16,15 +16,15 @@ Since shaders on Shadertoy have several code sections, they have been merged int
 
 * `CelestialClock.glsl` - animated raymarched fractal-like structure with multiple lights. [Link to Shadertoy](https://www.shadertoy.com/view/43BGRm).
 
-![Image for Fingerprints.glsl](/imgs/CelestialClock.png)
+![Image for CelestialClock.glsl](/imgs/CelestialClock.png)
 
-[Animation for Fingerprints.glsl](/imgs/CelestialClock.gif)
+[Animation for CelestialClock.glsl](/imgs/CelestialClock.gif)
 
 * `DreamField.glsl` - animated colorful 2D texture with dithering. [Link to Shadertoy](https://www.shadertoy.com/view/Mf3GRB).
 
-![Image for Fingerprints.glsl](/imgs/DreamField.png)
+![Image for DreamField.glsl](/imgs/DreamField.png)
 
-[Animation for Fingerprints.glsl](/imgs/DreamField.gif)
+[Animation for DreamField.glsl](/imgs/DreamField.gif)
 
 * `Aurora.glsl` - a simple-ish 2D aurora effect. [Link to Shadertoy](https://www.shadertoy.com/view/Mfy3Dz).
 
@@ -37,3 +37,9 @@ Since shaders on Shadertoy have several code sections, they have been merged int
 ![Image for BetweenOrderAndChaos.glsl](/imgs/BetweenOrderAndChaos.png)
 
 [Animation for BetweenOrderAndChaos.glsl](/imgs/BetweenOrderAndChaos.gif)
+
+* `LondonDots.glsl` - A simple animated effect of turning an image into "dots". Inspired by a random piece of art I have seen recently. (Name is only because of the image used.) [Link to Shadertoy](https://www.shadertoy.com/view/X3cczS).
+
+![Image for LondonDots.glsl](/imgs/LondonDots.png)
+
+[Animation for LondonDots.glsl](/imgs/LondonDots.gif)
