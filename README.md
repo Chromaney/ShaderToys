@@ -66,3 +66,55 @@ Some of the ideas have been referenced from [here](https://www.shadertoy.com/vie
 * `QuantumEntanglement.glsl` - Another usage of a smooth noise function. A result of experimenting with [another shader](https://www.shadertoy.com/view/wXG3WR). [Link to Shadertoy](https://www.shadertoy.com/view/3XySRh).
 
 <picture><img src="/imgs/QuantumEntanglement.png" alt="Image for QuantumEntanglement.glsl" width="400"></picture>
+
+* `GlorbTunnel.glsl` - (Glow Orb Tunnel) A sizecoding thing I had an idea for while working on another shader.
+
+<picture><img src="/imgs/GlorbTunnel.png" alt="Image for GlorbTunnel.glsl" width="400"></picture>
+
+* `Folding_Code_Space.glsl` - A result of playing around with macros and general code weirdness. And some sizecode-y stuff as well.
+
+<picture><img src="/imgs/Folding_Code_Space.png" alt="Image for Folding_Code_Space.glsl" width="400"></picture>
+
+* `Squiral.glsl` - Sizecoded square spiral.
+
+<picture><img src="/imgs/Squiral.png" alt="Image for Squiral.glsl" width="400"></picture>
+
+* `Aurora128.glsl` - A shader for an approximate visual recreation of a [128B ASM Intro](https://github.com/Chromaney/DosAsm/blob/main/aurora.asm) I made a few years ago. Also sizecoded, of course.
+
+<picture><img src="/imgs/Aurora128.png" alt="Image for Aurora128.glsl" width="400"></picture>
+
+* `BendyLightShow.glsl` - What if light somehow was affected by close objects and even its color?
+
+<picture><img src="/imgs/BendyLightShow.png" alt="Image for BendyLightShow.glsl" width="400"></picture>
+
+* `K_Scope3000.glsl` - Just wanted to do something fun and colorful, and remembered wanting to make a kaleidoscope.
+
+<picture><img src="/imgs/K_Scope3000.png" alt="Image for K_Scope3000.glsl" width="400"></picture>
+
+* `BreathOfAutumn.glsl` - Just something from messing around with fractals (part 1).
+
+<picture><img src="/imgs/BreathOfAutumn.png" alt="Image for BreathOfAutumn.glsl" width="400"></picture>
+
+* `FractalNebula.glsl` - Just something from messing around with fractals (part 2).
+
+<picture><img src="/imgs/FractalNebula.png" alt="Image for FractalNebula.glsl" width="400"></picture>
+
+* `UnlockedBox.glsl` - Combining see-through "4D" rendering of a tesseract with a Menger-like fractal. Initially inspired by a lyric by an obscure band, but then evolved into something else.
+
+<picture><img src="/imgs/UnlockedBox.png" alt="Image for UnlockedBox.glsl" width="400"></picture>
+
+* `EssenceOfMovement.glsl` - Just a small thing I had an idea for after remembering about 3D "cosine walks".
+
+<picture><img src="/imgs/EssenceOfMovement.png" alt="Image for EssenceOfMovement.glsl" width="400"></picture>
+
+* `PlasmaOrFog.glsl` - Experimenting with combining volumetric glow-like lighting and turbulent noise.
+
+<picture><img src="/imgs/PlasmaOrFog.png" alt="Image for PlasmaOrFog.glsl" width="400"></picture>
+
+* `ChristmasForest.glsl` - Using sizecoded Truchet pattern for Christmas-styled imagery.
+
+<picture><img src="/imgs/ChristmasForest.png" alt="Image for ChristmasForest.glsl" width="400"></picture>
+
+* `HappyFouriyear.glsl` - An attempt at drawing Fourier-decomposed curves.
+
+<picture><img src="/imgs/HappyFouriyear.png" alt="Image for HappyFouriyear.glsl" width="400"></picture>
